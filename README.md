@@ -20,8 +20,8 @@ with a strong passion for software development and technology.
 - System Design
 
 📫 How to Reach Me
-- Email: [your-email@example.com]
-- LinkedIn: [Coming Soon]
+- Email: okrtwr3108@gmail.com
+- LinkedIn: www.linkedin.com/in/janmejay-tiwari
 
 🤝 Open to
 - Collaboration on innovative projects
