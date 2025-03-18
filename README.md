@@ -1,16 +1,32 @@
-## Hi there 👋
+Hello, I'm Janmejay Tiwari 👋
 
-<!--
-**Janmejay3108/Janmejay3108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electronics and Communication Engineering student at Institute of Engineering & Management, Kolkata, 
+with a strong passion for software development and technology.
 
-Here are some ideas to get you started:
+💻 Skills
+- **Languages**: C++, Java, Python, JavaScript, TypeScript
+- **Web Development**: React.js, Node.js, Express.js, MERN Stack
+- **Database**: MongoDB, SQL, PostgreSQL, Firebase
+- **Cloud & DevOps**: AWS (EC2, S3, Lambda), Docker
+- **Tools**: Git, REST APIs, Agile Methodology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Current Projects
+- **Medical Information Portal**: A comprehensive platform for accessing healthcare information
+- **Personal Portfolio**: Showcasing my projects and skills
+
+🌱 Currently Learning
+- Advanced-Data Structures and Algorithms
+- Cloud Architecture
+- System Design
+
+📫 How to Reach Me
+- Email: [your-email@example.com]
+- LinkedIn: [Coming Soon]
+
+🤝 Open to
+- Collaboration on innovative projects
+- Job opportunities in software development
+- Connecting with fellow developers and tech enthusiasts
+
+📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Janmejay3108&show_icons=true&theme=radical)
